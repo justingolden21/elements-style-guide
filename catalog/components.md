@@ -44,10 +44,9 @@ active:mt-6 active:border-b-0 active:border-transparent
 #### Primary Button
 
 ```html
-<button class="button bg-red-700 text-white
+<button style="background-color: #f7941d; border-color: #f26522;" class="button text-white
 p-2 m-4 text-base
-border-b-4 border-red-900
-hover:bg-red-600 hover:border-red-700
+border-b-4
 focus:outline-none focus:ring-4 focus:ring-gray-300
 active:mt-6 active:border-b-0 active:border-transparent
 ">Button</button>
