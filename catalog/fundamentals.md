@@ -17,7 +17,7 @@ Corners are either rounded at 1/16in / 4px or not rounded at all, with preferenc
 
 ### Contrast
 
-Contrast for all text must pass [WCAG 2.0 AA color constrast standards](https://accessible-colors.com/)
+Contrast for all text must pass [WCAG 2.0 AA color constrast standards](https://accessible-colors.com/). Links should be bold in order to provide sufficient contrast.
 
 ### Terminology and Context
 
