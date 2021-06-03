@@ -68,6 +68,6 @@ darker accent: cmyk(0,0.75,1,0)
 
 greys have 0.2,0.4,0.6,0.8 key
 
-### TailwindCSS
+### Other Colors
 
-[Tailwind's colors](https://tailwindcss.com/docs/customizing-colors) are also acceptable. No other colors should be used. Of course, other company's colors should be used when applicable (ie. Kickstarter green, Youtube red) for example, for styling that company's logo in a button. Gradients should be avoided. Shadows and opacity should be used sparingly.
+[TailwindCSS colors](https://tailwindcss.com/docs/customizing-colors) are also acceptable for web use secondarily to the Elements palette. No other colors should be used. Of course, other company's colors should be used when applicable (ie. Kickstarter green, Youtube red) for example, for styling that company's logo in a button. Gradients should be avoided. Shadows and opacity should be used sparingly.

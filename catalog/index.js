@@ -58,7 +58,7 @@ ReactDOM.render(
 				background: "#fff",
 				textColor: "#000",
 				codeColor: "#0f0",
-				linkColor: "#f7941d",
+				linkColor: "#f26522",
 
 				lightColor: "#d1d3d4",
 
