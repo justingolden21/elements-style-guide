@@ -1,0 +1,14 @@
+{
+  "name": "Elements Style Guide",
+  "description": "Style guide and brand identity for Elements",
+  "dependencies": {
+    "catalog": "^3.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "catalog-start": "catalog start",
+    "catalog-build": "catalog build"
+  },
+  "license": "UNLICENSED"
+}
