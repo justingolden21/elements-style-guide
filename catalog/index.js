@@ -36,11 +36,6 @@ const pages = [
 				path: "/fundamentals",
 				title: "Fundamentals",
 				content: pageLoader(() => import("./fundamentals.md"))
-			},
-			{
-				path: "components",
-				title: "Components",
-				content: pageLoader(() => import("./components.md"))
 			}
 		]
 	}
