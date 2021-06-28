@@ -186,9 +186,9 @@ span: 2
 src: "cardback_greatspell.png"
 ```
 
-### Stroke Logo
+### Premium Logo
 
-The stroke version of the logo is meant only to be used on the gamebox, to add novelty to its design. This logo should **not** be used elsewhere.
+The stroke logo is only meant to be used on premium or special products. For the first edition games, this logo is used on the boxes to add novelty to the design. This logo should **not** be used normally.
 
 ```image
 plain: true
