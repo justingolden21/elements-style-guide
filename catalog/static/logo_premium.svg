@@ -1,44 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 162 216" style="enable-background:new 0 0 162 216;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{stroke:#FFFFFF;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:#F7941D;}
-	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#FFFFFF;stroke-width:2.25;stroke-miterlimit:10;}
-	.st5{fill:none;stroke:#FFFFFF;stroke-width:1.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{stroke:#FFFFFF;stroke-width:1.125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st7{fill:none;}
-	.st8{font-family:'Arvo';}
-	.st9{font-size:24px;}
-	.st10{letter-spacing:2.1;}
-</style>
-<g id="logo_premium">
-	<rect id="bg_00000097475231841193759210000000035546478032116148_" x="0" width="162" height="216"/>
-	<g id="text_00000090285653635643381190000008023840060303825557_">
-		<rect x="0" y="189" class="st7" width="162" height="27"/>
-		<text transform="matrix(0.95 0 0 1 8.3878 207.2341)" class="st2 st8 st9 st10">ELEMENTS</text>
-	</g>
-	<g id="logo_00000098911642884206317630000013366443115881075855_">
-		<ellipse id="ellipse_3_00000022525568274148910510000006909993824486657921_" class="st0" cx="81" cy="90" rx="27" ry="81"/>
-		
-			<ellipse id="ellipse_2_00000075854869402908467500000003527508727856122296_" transform="matrix(0.866 -0.5 0.5 0.866 -34.1476 52.5593)" class="st0" cx="81" cy="90" rx="81" ry="27"/>
-		
-			<ellipse id="ellipse_1_00000044881064703052165040000012337162752739476904_" transform="matrix(0.5 -0.866 0.866 0.5 -37.4407 115.1508)" class="st0" cx="81" cy="90" rx="27" ry="81"/>
-		<circle id="circle_inside_00000120517510933616640150000011013961226242197136_" cx="81" cy="90" r="36"/>
-		<circle id="dot3_00000015319486571729935470000003056951397297450664_" class="st1" cx="34.2" cy="44.1" r="4.5"/>
-		<circle id="dot2_00000144336269433499231600000007183294802916808327_" class="st1" cx="144.5" cy="72.3" r="4.5"/>
-		<circle id="dot1_00000076583639062783659850000007674784025873580476_" class="st1" cx="65.1" cy="153.5" r="4.5"/>
-		<g id="flame_00000176737152728956859020000016245881617540989577_">
-			<path class="st2" d="M80.4,62.7c3.1,2.9,7.6,9.2,8.8,22.4c0.1,0.7,0.4,1.3,1,1.6c0.4,0.3,0.8,0.4,1.3,0.4c0.2,0,0.4,0,0.6-0.1
-				c1.1-0.3,2.1-1.2,2.8-2.5c0.5-1,0.9-2,1.1-3.2c2.1,4.1,3.1,9.3-1,14.3c-0.5,0.6-0.6,1.3-0.4,2.1c0.4,1.3,1.7,2.2,3.2,2.4
-				c-1.8,9.8-9.2,13.4-16.1,13.4c-6.7,0-13.1-3.3-16.3-8.4c-3.1-4.8-3.1-10.9-0.1-17.4c1.8-3.3,4.1-4.7,6.6-6.2
-				C77,78.1,80.9,74.8,80.4,62.7 M77.8,58.3c2.6,24.2-8.8,17.1-14.7,28.2c-8.2,17.6,5.5,29,18.5,29c9.3,0,18.3-5.8,18.7-19.4
-				c-0.6,1.2-1.5,1.6-2.2,1.6c-0.8,0-1.4-0.4-1.5-0.8c8.2-9.9-0.9-20.7-3.6-23.5c2.1,6.5-0.1,11-1.6,11.4
-				C89.6,64.7,79.9,58.7,77.8,58.3L77.8,58.3z M100.3,96.1L100.3,96.1L100.3,96.1z"/>
-		</g>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 216" >
+<rect x="0" width="162" height="216"/>
+<text transform="matrix(0.95 0 0 1 8.3878 207.2341)" style="fill:#fff;font-family:'Arvo';font-size:24px;letter-spacing:2.1;">ELEMENTS</text>
+<g style="fill:none;stroke:#fff;stroke-width:2.25;">
+<ellipse cx="81" cy="90" rx="27" ry="81"/>
+<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -34.1476 52.5593)" cx="81" cy="90" rx="81" ry="27"/>
+<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -37.4407 115.1508)" cx="81" cy="90" rx="27" ry="81"/>
 </g>
+<circle cx="81" cy="90" r="36"/>
+<g style="stroke:#fff;stroke-width:2.25;">
+<circle cx="34.2" cy="44.1" r="4.5"/>
+<circle cx="144.5" cy="72.3" r="4.5"/>
+<circle cx="65.1" cy="153.5" r="4.5"/>
+</g>
+<path fill="#fff" d="M80.4,62.7c3.1,2.9,7.6,9.2,8.8,22.4c0.1,0.7,0.4,1.3,1,1.6c0.4,0.3,0.8,0.4,1.3,0.4c0.2,0,0.4,0,0.6-0.1c1.1-0.3,2.1-1.2,2.8-2.5c0.5-1,0.9-2,1.1-3.2c2.1,4.1,3.1,9.3-1,14.3c-0.5,0.6-0.6,1.3-0.4,2.1c0.4,1.3,1.7,2.2,3.2,2.4c-1.8,9.8-9.2,13.4-16.1,13.4c-6.7,0-13.1-3.3-16.3-8.4c-3.1-4.8-3.1-10.9-0.1-17.4c1.8-3.3,4.1-4.7,6.6-6.2C77,78.1,80.9,74.8,80.4,62.7 M77.8,58.3c2.6,24.2-8.8,17.1-14.7,28.2c-8.2,17.6,5.5,29,18.5,29c9.3,0,18.3-5.8,18.7-19.4c-0.6,1.2-1.5,1.6-2.2,1.6c-0.8,0-1.4-0.4-1.5-0.8c8.2-9.9-0.9-20.7-3.6-23.5c2.1,6.5-0.1,11-1.6,11.4C89.6,64.7,79.9,58.7,77.8,58.3L77.8,58.3z M100.3,96.1L100.3,96.1L100.3,96.1z"/>
 </svg>
