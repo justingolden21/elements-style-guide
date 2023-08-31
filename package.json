@@ -9,6 +9,5 @@
   "scripts": {
     "catalog-start": "catalog start",
     "catalog-build": "catalog build"
-  },
-  "license": "UNLICENSED"
+  }
 }

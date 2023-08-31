@@ -1,15 +1,32 @@
-# <img src="catalog/static/favicon.png" width="48px"> Elements Style Guide
-
-<img src="catalog/static/logo_text_horizontal.png" width="225px">
-
+# <img src="catalog/static/favicon.png" width="32px"> Elements Style Guide
 
 Style guide and brand identity for Elements
 
 https://elements-style-guide.netlify.app
 
-----
+## Initial Setup
+
+```
+npm install -g yarn
+yarn install
+```
+
+## Dev
+
+```
+yarn run catalog-start
+```
+
+## Build
+
+```
+yarn run catalog-build
+```
+
+Output goes to `/catalog/build`
+
+---
 
 Built with [Catalog](https://www.catalog.style/)
 
 Made by [Justin Golden](https://justingolden.me)
-
