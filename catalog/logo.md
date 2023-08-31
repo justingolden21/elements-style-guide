@@ -7,7 +7,7 @@ The atom mark is typically 2in by 2in and the wordmark is typically 2in by 0.25 
 
 The logo should be white on black where possible, otherwise black on white. No other colors should be used, except in the case of different cardbacks, where the border and fire should be set to the appropriate color.
 
-### Do's and Don'ts
+### Dos and Don'ts
 
 Do:
 
@@ -42,9 +42,9 @@ src: "logo_text_vertical.png"
 ```
 ```download|span-2
 {
-    "title": "Default Logo (.pdf)",
-    "filename": "logo_text_vertical.pdf",
-    "url": "logo_text_vertical.pdf"
+    "title": "Default Logo (.svg)",
+    "filename": "logo_text_vertical.svg",
+    "url": "logo_text_vertical.svg"
 }
 ```
 
@@ -68,9 +68,9 @@ src: "logo_text_horizontal.png"
 ```
 ```download|span-2
 {
-    "title": "Horizontal Logo (.pdf)",
-    "filename": "logo_text_horizontal.pdf",
-    "url": "logo_text_horizontal.pdf"
+    "title": "Horizontal Logo (.svg)",
+    "filename": "logo_text_horizontal.svg",
+    "url": "logo_text_horizontal.svg"
 }
 ```
 
@@ -94,9 +94,9 @@ src: "logo.png"
 ```
 ```download|span-2
 {
-    "title": "Icon (.pdf)",
-    "filename": "logo.pdf",
-    "url": "logo.pdf"
+    "title": "Icon (.svg)",
+    "filename": "logo.svg",
+    "url": "logo.svg"
 }
 ```
 
@@ -120,9 +120,9 @@ src: "favicon.png"
 ```
 ```download|span-2
 {
-    "title": "Icon (.pdf)",
-    "filename": "favicon.pdf",
-    "url": "favicon.pdf"
+    "title": "Icon (.svg)",
+    "filename": "favicon.svg",
+    "url": "favicon.svg"
 }
 ```
 
@@ -145,9 +145,9 @@ src: "logo_type.png"
 ```
 ```download|span-2
 {
-    "title": "Wordmark (.pdf)",
-    "filename": "logo_type.pdf",
-    "url": "logo_type.pdf"
+    "title": "Wordmark (.svg)",
+    "filename": "logo_type.svg",
+    "url": "logo_type.svg"
 }
 ```
 
@@ -170,9 +170,9 @@ src: "cardback.png"
 ```
 ```download|span-2
 {
-    "title": "Cardback (.pdf)",
-    "filename": "cardback.pdf",
-    "url": "cardback.pdf"
+    "title": "Cardback (.svg)",
+    "filename": "cardback.svg",
+    "url": "cardback.svg"
 }
 ```
 
