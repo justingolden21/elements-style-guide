@@ -55,18 +55,33 @@ colors:
 
 All colors are based in CMYK and designed for print. Here are the appropriate values for print:
 
-black: cmyk(0,0,0,1)
-white: cmyk(0,0,0,0)
-fire: cmyk(0,1,0.875,0)
-water: cmyk(1,0.875,0,0)
-gem: cmyk(0.875,0,1,0)
-lightning: cmyk(0,0.125,1,0)
-great spell: cmyk(0,0.5,1,0)
+```table
+span: 3
+rows:
+  - Name: Black
+    CMYK: cmyk(0,0,0,1)
+  - Name: White
+    CMYK: cmyk(0,0,0,0)
+  - Name: Fire
+    CMYK: cmyk(0,1,0.875,0)
+  - Name: Water
+    CMYK: cmyk(1,0.875,0,0)
+  - Name: Gem
+    CMYK: cmyk(0.875,0,1,0)
+  - Name: Lightning
+    CMYK: cmyk(0,0.125,1,0)
+  - Name: Great spell
+    CMYK: cmyk(0,0.5,1,0)
+  - Name: 
+  - Name: Lighter accent
+    CMYK: cmyk(0,0.25,1,0)
+  - Name: Darker accent
+    CMYK: cmyk(0,0.75,1,0)
+  - Name: 
+  - Name: Grey
+    CMYK: 0.2, 0.4, 0.6, 0.8 key
+```
 
-lighter accent: cmyk(0,0.25,1,0)
-darker accent: cmyk(0,0.75,1,0)
-
-greys have 0.2,0.4,0.6,0.8 key
 
 ### Other Colors
 

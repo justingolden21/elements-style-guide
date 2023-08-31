@@ -1,6 +1,6 @@
 ### Overview
 
-Elements uses two typefaces: Arvo and Open Sans. Arvo should be used for headings, and Open Sans for paragraph. Both fonts have italic variants as well. Icons used are from [FontAwesome](https://fontawesome.com). [HeroIcons](https://heroicons.dev/) and [ZestIcons](https://zesticons.com/icons/) are also acceptable alternatives and may be used in the future.
+Elements uses two typefaces: Arvo and Open Sans. Arvo should be used for headings, and Open Sans for paragraph. Both fonts have italic variants as well. Icons are from [Zest Icons](https://zesticons.com/).
 
 
 ### Elements
