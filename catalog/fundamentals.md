@@ -46,7 +46,7 @@ Elements is a simple, speedy, spell-slinging party game for 2-8 players
 
 ##### Long Description
 
-Be the first one to 20 gems or the last one standing to win. Cast fire spells to deal damage, water spells to heal damage, craft gems, and counter or reflect your opponents.
+Be the first one to 20 gems or the last one standing to win. Cast fire spells to deal damage, water spells to heal damage, craft gems, and counter your opponents.
  
 Overpower your opponents’ spells to counter them by casting a spell of the same element with greater power. Combine cards of the same element into a single powerful spell. Select your cards carefully and anticipate your opponents. Craft your way to victory, or destroy your opponents; the choice is yours.
 
