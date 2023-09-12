@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 216" >
-<rect x="0" width="162" height="216"/>
-<text transform="matrix(0.95 0 0 1 8.3878 207.2341)" style="fill:#fff;font-family:'Arvo';font-size:24px;letter-spacing:2.1;">ELEMENTS</text>
-<g style="fill:none;stroke:#fff;stroke-width:2.25;">
-<ellipse cx="81" cy="90" rx="27" ry="81"/>
-<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -34.1476 52.5593)" cx="81" cy="90" rx="81" ry="27"/>
-<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -37.4407 115.1508)" cx="81" cy="90" rx="27" ry="81"/>
-</g>
-<circle cx="81" cy="90" r="36"/>
-<g style="stroke:#fff;stroke-width:2.25;">
-<circle cx="34.2" cy="44.1" r="4.5"/>
-<circle cx="144.5" cy="72.3" r="4.5"/>
-<circle cx="65.1" cy="153.5" r="4.5"/>
-</g>
-<path fill="#fff" d="M77.8,58.3c2.1,0.4,11.8,6.4,13.6,26.5c1.5-0.4,3.7-4.9,1.6-11.4c2.7,2.8,11.8,13.6,3.6,23.5c0.2,0.7,2.4,1.7,3.7-0.8c-1.1,32.6-51.2,20.6-37.2-9.6C69,75.4,80.4,82.5,77.8,58.3z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 216"><rect width="162" height="216" x="0"/><text transform="matrix(0.95 0 0 1 8.3878 207.2341)" style="fill:#fff;font-family:'Arvo';font-size:24px;letter-spacing:2.1">ELEMENTS</text><g style="fill:none;stroke:#fff;stroke-width:2.25"><ellipse cx="81" cy="90" rx="27" ry="81"/><ellipse cx="81" cy="90" rx="81" ry="27" transform="matrix(0.866 -0.5 0.5 0.866 -34.1476 52.5593)"/><ellipse cx="81" cy="90" rx="27" ry="81" transform="matrix(0.5 -0.866 0.866 0.5 -37.4407 115.1508)"/></g><circle cx="81" cy="90" r="36"/><g style="stroke:#fff;stroke-width:2.25"><circle cx="34.2" cy="44.1" r="4.5"/><circle cx="144.5" cy="72.3" r="4.5"/><circle cx="65.1" cy="153.5" r="4.5"/></g><path fill="#fff" d="M77.8,58.3c2.1,0.4,11.8,6.4,13.6,26.5c1.5-0.4,3.7-4.9,1.6-11.4c2.7,2.8,11.8,13.6,3.6,23.5c0.2,0.7,2.4,1.7,3.7-0.8c-1.1,32.6-51.2,20.6-37.2-9.6C69,75.4,80.4,82.5,77.8,58.3z"/></svg>
