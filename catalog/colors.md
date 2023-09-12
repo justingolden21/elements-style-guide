@@ -15,7 +15,7 @@ value: "#ffffff"
 ```color
 span: 1
 name: Fire Red
-value: "#ed1b31"
+value: "#b5191e"
 ```
 
 Pure Black (#000000) should be used for screens (when not representing what the product will look like in print).
@@ -24,31 +24,31 @@ Pure Black (#000000) should be used for screens (when not representing what the 
 
 ```color-palette
 colors:
-  - {name: "Fire", value: "#ed1b31"}
-  - {name: "Water", value: "#1b449c"}
-  - {name: "Gem", value: "#00ad4d"}
-  - {name: "Electric", value: "#ffda00"}
+  - {name: "Fire", value: "#b5191e"}
+  - {name: "Water", value: "#2a2a86"}
+  - {name: "Gem", value: "#00845d"}
+  - {name: "Electric", value: "#ffdd00"}
   - {name: "Great Spell", value: "#f7941d"}
 ```
 
 
-### Greys
+### Grays
 
 ```color-palette
 colors:
-  - {name: "200", value: "#d1d3d4"}
-  - {name: "400", value: "#a7a9ac"}
-  - {name: "600", value: "#808285"}
-  - {name: "800", value: "#58595b"}
+  - {name: "Gray 20", value: "#d1d3d4"}
+  - {name: "Gray 40", value: "#a7a9ac"}
+  - {name: "Gray 60", value: "#808285"}
+  - {name: "Gray 80", value: "#58595b"}
 ```
 
 ### Accents
 
 ```color-palette
 colors:
-  - {name: "Lighter", value: "#ffc20e"}
+  - {name: "Lighter", value: "#ffcb05"}
   - {name: "Great Spell", value: "#f7941d"}
-  - {name: "Darker", value: "#f26522"}
+  - {name: "Darker", value: "#f15a22"}
 ```
 
 ### CMYK
@@ -78,8 +78,14 @@ rows:
   - Name: Darker accent
     CMYK: cmyk(0,0.8,1,0)
   - Name: 
-  - Name: Grey
-    CMYK: 0.2, 0.4, 0.6, 0.8 key
+  - Name: Gray 20
+    CMYK: cmyk(0,0,0,20)
+  - Name: Gray 40
+    CMYK: cmyk(0,0,0,40)
+  - Name: Gray 60
+    CMYK: cmyk(0,0,0,60)
+  - Name: Gray 80
+    CMYK: cmyk(0,0,0,80)
 ```
 
 
