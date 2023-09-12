@@ -12,7 +12,7 @@ Elements should be typed "ELEMENTS" as a title, and "Elements" when refered to i
 ```type
 {
     "headings": [60],
-    "color": "#231f20",
+    "color": "#000",
     "font": "Arvo",
     "tracking": 9.5,
     "weight": 300,
@@ -31,7 +31,7 @@ Packaging should use Arvo at regular weight, while Headings complimenting paragr
 {
   "headings": [72,60,48,36],
   "font": "Arvo",
-  "color": "#231f20"
+  "color": "#000"
 }
 ```
 
@@ -42,7 +42,7 @@ Packaging should use Arvo at regular weight, while Headings complimenting paragr
   "headings": [72,60,48,36],
   "font": "Arvo",
   "weight": "600",
-  "color": "#231f20"
+  "color": "#000"
 }
 ```
 
@@ -58,7 +58,7 @@ Paragraph text should use Open Sans in light or regular weight. Emphasized text 
   "paragraphs": ["16/24"],
   "font": "Open Sans",
   "weight": "300",
-  "color": "#231f20"
+  "color": "#000"
 }
 ```
 
@@ -69,7 +69,7 @@ Paragraph text should use Open Sans in light or regular weight. Emphasized text 
   "paragraphs": ["16/24"],
   "font": "Open Sans",
   "weight": "400",
-  "color": "#231f20"
+  "color": "#000"
 }
 ```
 
@@ -80,7 +80,7 @@ Paragraph text should use Open Sans in light or regular weight. Emphasized text 
   "paragraphs": ["16/24"],
   "font": "Open Sans",
   "weight": "600",
-  "color": "#231f20"
+  "color": "#000"
 }
 ```
 
