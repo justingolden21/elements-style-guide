@@ -28,7 +28,7 @@ colors:
   - {name: "Water", value: "#2a2a86"}
   - {name: "Gem", value: "#00845d"}
   - {name: "Electric", value: "#ffdd00"}
-  - {name: "Great Spell", value: "#f7941d"}
+  - {name: "Greatspell", value: "#f7941d"}
 ```
 
 
@@ -47,7 +47,7 @@ colors:
 ```color-palette
 colors:
   - {name: "Lighter", value: "#ffcb05"}
-  - {name: "Great Spell", value: "#f7941d"}
+  - {name: "Greatspell", value: "#f7941d"}
   - {name: "Darker", value: "#f15a22"}
 ```
 
@@ -70,7 +70,7 @@ rows:
     CMYK: cmyk(1,0.2,0.8,0.1)
   - Name: Electric
     CMYK: cmyk(0,0.1,1,0)
-  - Name: Great spell
+  - Name: Greatspell
     CMYK: cmyk(0,0.5,1,0)
   - Name: 
   - Name: Lighter accent

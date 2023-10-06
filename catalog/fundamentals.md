@@ -28,7 +28,7 @@ Pronounced: eh - luh - muhnts
 
 #### Terminology
 
-"Great Spell" is two words, no hypen, with a capital G and S. "Tracker Cards" and "Elements Deck" are capitalized as well. All other terms are lowercase and non-proper nouns. The "Elements Deck" is defined as the 80 card spell deck and does not include Great Spells nor Tracker Cards.
+"Greatspell" is one word, no hypen, with a capital G and lowercase s. "Elements Deck" is capitalized as well, but "tracker cards" are not. All other terms are lowercase and non-proper nouns. The "Elements Deck" is defined as the 80 card spell deck and does not include Greatspells or tracker cards.
 
 The four elements are "fire", "water", "gem", and "electric"/"electricity" in that order and in lowercase.
 

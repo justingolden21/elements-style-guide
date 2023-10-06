@@ -176,9 +176,9 @@ src: "cardback.png"
 }
 ```
 
-### Great Spell Cardback
+### Greatspell Cardback
 
-The Great Spell cardback is an example of a cardback that uses a third color, as mentioned above.
+The Greatspell cardback is an example of a cardback that uses a third color, as mentioned above.
 
 ```image
 plain: true
