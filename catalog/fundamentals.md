@@ -54,6 +54,6 @@ Overpower your opponents’ spells to counter them by casting a spell of the sam
 
 **This is to be used on the back of the box, in the hero of the website, etc.**
 
-Take part in a one-of-a-kind battle royale experience for 2-8 players. The game begins with each player receiving 4 cards. Players choose 2 cards to keep and pass 2 cards to their opponents. Then, players engage in a fierce battle, using their selected spells to unleash the power of fire, harness the healing abilities of water, craft valuable gems, or counter their opponents with electricity.
+Take part in a one-of-a-kind battle royale experience for 2-8 players. Each round, players select 2 cards to keep and 2 cards to pass to their opponents. Then, players engage in a fierce battle, using their selected spells to unleash the power of fire, harness the healing abilities of water, craft valuable gems, or counter their opponents with electricity.
 
 Craft a powerful Greatspell to give yourself a major advantage. Combine your own spells and overpower your opponents. Achieve victory by either being the last player standing or by accumulating 20 gems. The choice is yours.
