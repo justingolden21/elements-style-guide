@@ -193,5 +193,5 @@ The stroke logo is only meant to be used on premium or special products. For the
 ```image
 plain: true
 span: 2
-src: "logo_stroke.png"
+src: "logo_premium.png"
 ```
