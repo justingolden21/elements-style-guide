@@ -50,3 +50,8 @@ Be the first one to 20 gems or the last one standing to win. Cast fire spells to
  
 Overpower your opponents’ spells to counter them by casting a spell of the same element with greater power. Combine cards of the same element into a single powerful spell. Select your cards carefully and anticipate your opponents. Craft your way to victory, or destroy your opponents; the choice is yours.
 
+##### Hook
+
+**This is to be used on the back of the box, in the hero of the website, etc.**
+
+Take part in a one-of-a-kind battle royale experience for 2-8 players. The game begins with each player receiving 4 cards. Players choose 2 cards to keep and pass 2 cards to their opponents. Then, players engage in a fierce battle, using their selected spells to unleash the power of fire, harness the healing abilities of water, craft valuable gems, or counter their opponents with electricity. Victory can be achieved by either being the last player standing or by accumulating 20 gems first. The choice is yours.
