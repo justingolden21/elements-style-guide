@@ -44,7 +44,7 @@ Elements is a simple, speedy, spell-slinging party game for 2-8 players
 
 **This is to be used on the back of the box, in the hero of the website, etc.**
 
-Take part in a one-of-a-kind battle royale experience for 2-8 players. Each round, players select 2 cards to keep and 2 cards to pass to their opponents. Then, players engage in a fierce battle, using their selected spells to unleash the power of fire, harness the healing abilities of water, craft valuable gems, or counter their opponents with electricity.
+Take part in a one-of-a-kind battle royale experience for 2-8 players. Each round, players select 2 cards to keep and 2 cards to pass to their opponents. Then, players engage in a fierce battle, using their selected spells to unleash the power of fire, harness the healing abilities of water, carefully craft valuable gems, or counter their opponents with electricity.
 
 Craft a powerful Greatspell to give yourself a major advantage. Combine your own spells and overpower your opponents. Achieve victory by either being the last player standing or by accumulating 20 gems. The choice is yours.
 
