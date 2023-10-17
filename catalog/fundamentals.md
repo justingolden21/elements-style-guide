@@ -53,3 +53,7 @@ Craft a powerful Greatspell to give yourself a major advantage. Combine your own
 Be the first one to 20 gems or the last one standing to win. Cast fire spells to deal damage, water spells to heal damage, craft gems, and counter your opponents.
 
 Overpower your opponents’ spells to counter them by casting a spell of the same element with greater power. Combine cards of the same element into a single powerful spell. Select your cards carefully and anticipate your opponents. Craft your way to victory, or destroy your opponents; the choice is yours.
+
+#### Marketing
+
+Elements is the ultimate party game! Learn to play in minutes, entertain up to 8 players, and take it anywhere with ease. Elements is an absolute blast to play, offering interactive fun as you strategize with fellow players, cast spells, and form coalitions. Only one can emerge victorious! A fantastic choice for family gatherings, friendly get-togethers, and lively parties.
